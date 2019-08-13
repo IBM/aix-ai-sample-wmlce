@@ -1,0 +1,3 @@
+[submodule "aix-ai-sample-wmlce"]
+	path = aix-ai-sample-wmlce
+	url = ./aix-ai-sample-wmlce
