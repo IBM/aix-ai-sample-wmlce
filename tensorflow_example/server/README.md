@@ -1,6 +1,12 @@
 Model Building and Deployment (on Power Little-endian Linux)
+------------------------------------------------------------
+
+This code has to be run on Linux LPAR where Watson Machine Learning Community Edition (WMLCE) is installed.
 
 Linux version supported is RHEL 7.6
+
+File Descriptions
+-----------------
 
 train.py - Python code to run training on the data (in cust_history.csv) and save the Tensorflow model
 
