@@ -1,6 +1,8 @@
 Tensorflow based Model
+----------------------
 
 Usecase:
+--------
 
 This use case on retaining Merchants that are using company network for credit card processing.  A client approved many low value merchant accounts without much scrutiny. Many of those merchant accounts resulted in default.   Those merchant accounts were focusing on the following joint programs cars, furniture, electronics, continuing education, etc.  The client thinks that they should have put more of an emphasis on their applicant screening process.
 
