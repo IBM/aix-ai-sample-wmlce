@@ -1,4 +1,5 @@
-Scikit-Based Model
+**Scikit-Based Model**
+
 Usecase:
 
 This usecase shows an example where the customer behavior and purchase history is used to identify the risk score for each of the retail transaction. This risk score is used to decide if a transaction is safe to be committed. 
