@@ -3,7 +3,7 @@ Usecase:
 
 This usecase shows an example where the customer behavior and purchase history is used to identify the risk score for each of the retail transaction. This risk score is used to decide if a transaction is safe to be committed. 
 
-The model is deployed on a Linux LPAR that has WML-CE installed and the model is served using REST APIs. It can be accessed for inferencing either from AIX before committing a transaction or from a “Point of Sale” system that is updating the DB2 for the retail transactions.
+The model can be deployed on a Linux LPAR that has WML-CE installed and the model is served using REST APIs. It can be accessed for inferencing either from AIX before committing a transaction or from a “Point of Sale” system that is updating the DB2 for the retail transactions.
 
 This example has two folders:
 
