@@ -76,12 +76,12 @@ class ZINCServer:
             DB2 server
                 defined via the environment variable DB2_DSN
                     - value such as:
-                      DB2_DSN='DRIVER={IBM DB2 ODBC DRIVER};DATABASE=test1;HOSTNAME=gibbssbw.aus.stglabs.ibm.com;PORT=50000;PROTOCOL=TCPIP;UID=test1;PWD=test1;'
+                      DB2_DSN='DRIVER={IBM DB2 ODBC DRIVER};DATABASE=test1;HOSTNAME=<hostname>;PORT=50000;PROTOCOL=TCPIP;UID=test1;PWD=test1;'
 
             CTR server
                 defined via the environment variable CTR_URI
                     - values such as:
-                       CTR_URI=http://172.17.0.2:5001/user
+                       CTR_URI=http://<HOST IP>:5001/user
     """
   
     # Status definitions
